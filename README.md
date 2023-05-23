@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![promptopia](https://github.com/arnaud-vanderschriek/promptAINextJS/assets/52375486/3fcd34ea-5160-467b-932b-22443ad641ef)
 
+![promptopia-createPrompt](https://github.com/arnaud-vanderschriek/promptAINextJS/assets/52375486/a7d5722a-1081-4ce9-a591-0f453abb6770)
+
+![promptopia-updatePrompt](https://github.com/arnaud-vanderschriek/promptAINextJS/assets/52375486/754bcebc-5360-44bd-91c2-d490cbf441c5)
+
+![promptopia-userProfile](https://github.com/arnaud-vanderschriek/promptAINextJS/assets/52375486/19c7cebf-bafe-4cd0-99ea-ea5a570b505f)
+
 ## Presentation
 
 This is a presentation web application which is used to show the use of NextJs, an authentication method with Next-Auth, a database with mongoDB. The css was made with Tailwind
