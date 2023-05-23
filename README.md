@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 This is a presentation web application which is used to show the use of NextJs, an authentication method with Next-Auth, a database with mongoDB. The css was made with Tailwind
 
 
-The web application is hosted on vercel at the following address: https://promptopia-i9b024zlr-arnaud-vanderschriek.vercel.app/
+The web application is hosted on vercel at the following address: https://promptopia-nwf7xidci-arnaud-vanderschriek.vercel.app/
 
 ## Getting Started
 
