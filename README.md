@@ -14,6 +14,17 @@ This is a presentation web application which is used to show the use of NextJs, 
 
 
 The web application is hosted on vercel at the following address: https://promptopia-five-theta.vercel.app/
+
+You are going to need an .env file oc. 
+This file must contain the following variables 
+
+* GOOGLE_CLIENT_ID 
+* GOOGLE_CLIENT_SECRET ( given when setup your project on google cloud console )
+* MONGODB_URI ( your personal mongoDB )
+* NEXTAUTH_URL ( http://localhost:3000 )
+* NEXTAUTH_URL_INTERNAL ( http://localhost:3000 )
+* NEXTAUTH_SECRET https://next-auth.js.org/configuration/options#nextauth_secret
+
 ## Getting Started
 
 First, run the development server:
